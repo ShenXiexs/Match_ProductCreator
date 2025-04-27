@@ -10,3 +10,11 @@
   Open collaboration est. commission, Affiliate refunded GMV, Affiliate items refunded, Affiliate followers, ROI
 - 商品维度信息:
   视频标题, 视频时长, 达人粉丝数, 国家/地区, 发布时间, 播放量, 点赞数, 互动率, 该商品销量, 该商品销售额
+
+- 0427 Updated:
+目前存在问题：1) 改变商品介绍，输出的达人list高度重复；2) 还没有添加预算作为限制
+进一步改进：
+- 1 选什么维度的信息聚类？
+- 2 聚类用什么方法 ？
+- 3 聚成几类？
+- 4 预测ROI还是销售额？历史总ROI在达人list已经有了，销售额在商品数据里面
