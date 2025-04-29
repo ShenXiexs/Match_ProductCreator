@@ -18,3 +18,7 @@
   2 聚类用什么方法 ？<br>
   3 聚成几类？<br>
   4 预测ROI还是销售额？历史总ROI在达人list已经有了，销售额在商品数据里面
+
+### 0429 Updated:
+- Product_Creator 新增商品ID列，便于后续Join
+- 上传PicCrawl_OCR_All.json，包含截图OCR数据和商品ID
