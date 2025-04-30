@@ -22,3 +22,6 @@
 ### 0429 Updated:
 - Product_Creator 新增商品ID列，便于后续Join
 - 上传PicCrawl_OCR_All.json，包含截图OCR数据和商品ID
+
+### 0430 Updated:
+- Product_Creator_OCR 处理完OCR数据join出来的完整表格
