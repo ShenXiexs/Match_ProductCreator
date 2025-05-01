@@ -25,3 +25,6 @@
 
 ### 0430 Updated:
 - Product_Creator_OCR 处理完OCR数据join出来的完整表格
+
+### 0501 Updated:
+- 更新0501v1版本代码
