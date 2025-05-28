@@ -36,3 +36,9 @@
 - 跟新0520V2代码，思路框架可以了，还需：
   1 加入成本控制功能
   2 预测达人list似乎与文本信息无关！！
+
+### 0528 Updated:
+- 更新越南版本数据：
+[Product_Creator_OCRAll_Viet.xlsx](https://github.com/user-attachments/files/20494046/Product_Creator_OCRAll_Viet.xlsx)
+[Creator_List_Viet.xlsx](https://github.com/user-attachments/files/20494041/Creator_List_Viet.xlsx)
+
