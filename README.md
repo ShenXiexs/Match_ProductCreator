@@ -42,3 +42,7 @@
 [Product_Creator_OCRAll_Viet.xlsx](https://github.com/user-attachments/files/20494046/Product_Creator_OCRAll_Viet.xlsx) <br>
 [Creator_List_Viet.xlsx](https://github.com/user-attachments/files/20494041/Creator_List_Viet.xlsx)
 
+### 0530 Updated:
+- 更新越南版本数据：<br>
+[Product_Creator_OCRAll_Viet0530.xlsx](https://github.com/user-attachments/files/20509221/Product_Creator_OCRAll_Viet0530.xlsx)
+
